@@ -12,7 +12,7 @@ import { Github } from "lucide-vue-next";
         <img src="/images/pokeapi.png" alt="" class="w-20" />
       </a>
       <a
-        href="https://github.com/"
+        href="https://github.com/prampokan/pokemon-nuxt"
         target="_blank"
         class="flex items-center gap-x-1 cursor-pointer font-bold hover:text-green-500 transition-all"
       >
